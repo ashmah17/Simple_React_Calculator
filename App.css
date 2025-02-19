@@ -1,0 +1,16 @@
+.bg1{
+    background-color: rgb(75, 55, 94);
+}
+.shadow{
+    box-shadow: 1px 4px 5px 5px #3d2d4d48;
+    background-color: #513d63;
+}
+.darkshadow{
+    box-shadow: 1px 4px 5px 5px #dedfa991;
+}
+.inset{
+    box-shadow:inset 2px 2px 2cqw #725c86;
+}
+.darkinset{
+    box-shadow:inset 2px 2px 2cqw #adae7c91;
+}
